@@ -592,7 +592,7 @@ def go_num(driver):
         print(f"Erreur lors du clic sur le bouton 'Suivant' : {e}")
 
 def buy_num_and_get_otp(driver):
-    api_key = 'cA41b33A372dccd7b771A1A07dc785Ab'
+    api_key = 'API-KEY'
     service = 'go'
     country = '78'
 
