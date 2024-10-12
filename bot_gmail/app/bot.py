@@ -19,11 +19,11 @@ import json
 
 
 proxy = {
-    'http': 'socks5://FHU5X7HJ:FHU5X7HJ@90.119.64.63:30018',
-    'https': 'socks5://FHU5X7HJ:FHU5X7HJ@90.119.64.63:30018',
+    'http': 'socks5://USER:MDP@HOST:PORT',
+    'https': 'socks5://USER:MDP@HOST:PORT',
 }
 
-rotation_url = 'http://90.119.64.63/selling/rotate?token=8ce0eebbdb5044f2a25089a390f70790'
+rotation_url = 'LIEN ROTATION IP'
 
 def get_public_ip():
     try:
