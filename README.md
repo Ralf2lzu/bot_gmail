@@ -1,2 +1,7 @@
 # bot_gmail
 créé des compte gmail avec l'api sms activet 
+
+
+IL EST EN COURS TOUT ES UPDATE SERONT A JOURS SUR LE BOT BONNE UTILISATION 
+
+IMPORTENT IL FAUT SELENUIM-WIRE
